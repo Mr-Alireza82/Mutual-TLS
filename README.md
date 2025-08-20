@@ -37,7 +37,7 @@ This lock ensures data integrity during transformation and communication between
 ### Installation  
 Add this project to your environment easily:
 
-⚡ Usage Example  
+## ⚡ Usage Example
 **Imagine how the boxes and locks work together in three simple steps:**
 1. Unlock Box 1 using Lock 1 to fetch raw data
 2. Process data safely inside Box 2 protected by Lock 2
