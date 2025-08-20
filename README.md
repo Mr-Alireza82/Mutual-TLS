@@ -1,7 +1,4 @@
 # Mutual-TLS
-Mutual-TLS
-
-# YourProjectName
 
 A simple and secure system that uses **2 boxes** and **2 locks** to ensure easy and safe data handling, designed to be intuitive for beginners.
 
